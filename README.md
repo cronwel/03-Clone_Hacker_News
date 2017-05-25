@@ -9,10 +9,10 @@ Start Date-5/23/17 End Date-5/25/17
 **Ref:** Child, M. "How to buildd a Reddit or Hacker News Style Web App in Rails 4".https://www.youtube.com/watch?v=7-1HCWbu7iU. Sep 7, 2014.
 
 **Results:** Excellent tutorial overall. The main gems used are as follows:
-..* Devise-user registration
-..* Bootstrap-sass- CSS formatting
-..* Act_as_votable- voting capabilities for the main model
-..* Simple_form- creating comments section for the main model
+* Devise-user registration
+* Bootstrap-sass- CSS formatting
+* Act_as_votable- voting capabilities for the main model
+* Simple_form- creating comments section for the main model
 
 I made it through the tutorial over a few days and much longer than the 1:08 minute runtime. I did gain familiarity with how to use different types of gems, not all have the same setup for utilization.
 
